@@ -1,0 +1,12 @@
+.expenses{
+    margin-top: 2rem;
+    display: flex;
+    width: 100%;
+    flex: 1;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-radius: 40px;
+    position: relative;
+    padding: 0.5em;
+    background-color: #c94f7c;
+}

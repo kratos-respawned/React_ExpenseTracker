@@ -1,0 +1,13 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex: 1;
+    flex-wrap: wrap;
+    width: 75%;
+    margin-inline: auto;
+    margin-top: 2em;
+    padding: 2rem;
+    box-sizing: border-box;
+    border-radius: 30px;
+}

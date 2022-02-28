@@ -1,0 +1,38 @@
+.expense_box{
+    font-size: large;
+    font-weight: bold;
+    font-style: italic; 
+    width: 90%;
+    margin: 1rem;
+    padding: 1em 5em;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    color: #e6246b;
+    background-color: #ffb2dd;
+}
+.expense_date{
+    background-color: #ff80ab;
+    border: 0;
+    border-radius: 30px;
+    height: 3rem;
+    padding: 3rem;
+    width: min-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.expense_amount{
+    background-color: #ff80ab;
+    border: 0;
+    border-radius: 30px;
+    height: 2rem;
+    padding: 2rem;
+    width: min-content;
+}
+.expense_title{
+    font-size: x-large;
+}
